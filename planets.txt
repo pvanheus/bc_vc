@@ -8,3 +8,8 @@ Jupiter
 Saturn
 Uranus
 Neptune
+
+Planets are defined as objects which are
+approximately spherical due to their own
+gravity and which clean their orbit of 
+other objects.
