@@ -1,0 +1,11 @@
+The  planets in the solar system are:
+
+Mercury
+Venus
+Earth
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto
